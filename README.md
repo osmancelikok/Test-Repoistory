@@ -1,2 +1,2 @@
 # Test-Repoistory
-Just a test about Github
+Just a test about Githu
